@@ -1,5 +1,5 @@
-let destPosition = { x: 1776, y: 1902 };
-let destBoard = [[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15],[16,17,18,19,20],[21,22,23,24,25],[26,27,28,29,30],[31,31,32,32,32]];
+let destPosition = { x: 1786, y: 1902 };
+let destBoard = [[7,7,7,7,7],[7,7,7,7,7]];
 
 function getPixelColor(x, y) {
     return board[y * WIDTH + x];
